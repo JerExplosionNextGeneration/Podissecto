@@ -14,4 +14,13 @@ public enum NaviType {
     case heada
     case maine
 }
-                      
+
+public struct MuAtem {
+    public var naviType: NaviType = .maine
+}
+
+public enum NaTyp {
+    case subu
+    case heada
+    case maine
+}
